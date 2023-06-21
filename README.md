@@ -4,6 +4,8 @@ A useful spread-sheet to calculate staff's wages.
 
 スタッフの勤怠管理に便利なスプレッドシートです。
 
+![image](Image.jpg)
+
 # Spread-Sheet link below↓ 
 
 ## .XLSX
