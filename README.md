@@ -6,7 +6,13 @@ A useful spread-sheet to calculate staff's wages.
 
 # Spread-Sheet link below↓ 
 
+## .XLSX
+
 https://bit.ly/3PNYldE
+
+## SpreadSheet
+
+https://docs.google.com/spreadsheets/d/19j84gIi3EwPpwZyJ8erfn0crjCEpAVaPWsb6f0t1f_E/edit?usp=sharing
 
 # Usage
 
